@@ -1,0 +1,16 @@
+{
+  "name": "gh_actions_lab_03",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+   "test": "jest --coverage"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^29.5.12",
+    "ts-jest": "^29.1.5",
+    "ts-node": "^10.9.2"
+  }
+}
